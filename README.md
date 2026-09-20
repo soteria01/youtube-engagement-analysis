@@ -1,8 +1,11 @@
 # youtube-engagement-analysis
 YouTube engagement analysis comparing movie teasers, trailers, and influencer reviews using Velma-related videos. Includes dataset, Power BI visuals, insights, and recommendations.
+
 YouTube Engagement Analysis: Teasers vs Trailers (Velma Case Study)
 By Soteria Ebulu
+
 **Project Overview
+
 **Movie studios rely heavily on online engagement to build anticipation and drive viewership.
 This project analyzes YouTube engagement metrics for four Velma‑related videos — including the official teaser, official trailer, and influencer reviews — to understand how different video formats influence audience behavior.
 
